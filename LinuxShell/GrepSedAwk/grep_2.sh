@@ -1,0 +1,1 @@
+egrep -i '\bthe\b'
